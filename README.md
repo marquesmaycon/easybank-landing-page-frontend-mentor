@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor Solution](https://your-solution-url.com)
+- Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/solution-with-video-tutorial-freecodecamp-t3TUW6Sno7)
 - Live Site URL: [Vercel](https://easybank-landing-page-frontend-mentor.vercel.app)
 
 ## My process
